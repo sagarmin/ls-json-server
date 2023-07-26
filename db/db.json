@@ -4,7 +4,7 @@
       "firstName": "chandra",
       "lastName": "reddy garu",
       "emailAddress": "chandrasowjanya18@gmail.com",
-      "phoneNumber": "123456798",
+      "phoneNumber": "1234567890",
       "streetAddress": "68749",
       "zipCode": "675839",
       "city": "Seattle",
@@ -24,7 +24,8 @@
       "id": 3,
       "firstName": "Ann",
       "lastName": "Smith",
-      "emailAddress": "ann@codingthesmartway.com"
+      "emailAddress": "sagarmalla007@gmail.com"
+      "phoneNumber": "8333835443",
     },
     {
       "id": 4,
