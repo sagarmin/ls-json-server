@@ -24,8 +24,9 @@
       "id": 3,
       "firstName": "Ann",
       "lastName": "Smith",
-      "emailAddress": "sagarmalla007@gmail.com"
+      "emailAddress": "sagarmalla007@gmail.com",
       "phoneNumber": "8333835443",
+      "role": "Super Admin"
     },
     {
       "id": 4,
