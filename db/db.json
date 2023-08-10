@@ -1936,11 +1936,7 @@
             "name": "Test 2"
           }
         ],
-        "diagnosticsCodes": [
-          "R74.8",
-          "R94.5",
-          "R63.5"
-        ]
+        "diagnosticsCodes": ["R74.8", "R94.5", "R63.5"]
       },
       {
         "testTypeDto": {
@@ -1963,11 +1959,7 @@
             "name": "Test 4"
           }
         ],
-        "diagnosticsCodes": [
-          "R12.3",
-          "R56.7",
-          "R89.0"
-        ]
+        "diagnosticsCodes": ["R12.3", "R56.7", "R89.0"]
       },
       {
         "testTypeDto": {
@@ -1990,11 +1982,7 @@
             "name": "Test 6"
           }
         ],
-        "diagnosticsCodes": [
-          "R45.6",
-          "R78.9",
-          "R01.2"
-        ]
+        "diagnosticsCodes": ["R45.6", "R78.9", "R01.2"]
       },
       {
         "testTypeDto": {
@@ -2017,11 +2005,7 @@
             "name": "Test 8"
           }
         ],
-        "diagnosticsCodes": [
-          "R34.5",
-          "R67.8",
-          "R90.1"
-        ]
+        "diagnosticsCodes": ["R34.5", "R67.8", "R90.1"]
       },
       {
         "testTypeDto": {
@@ -2044,11 +2028,7 @@
             "name": "Test 10"
           }
         ],
-        "diagnosticsCodes": [
-          "R23.4",
-          "R56.7",
-          "R89.0"
-        ]
+        "diagnosticsCodes": ["R23.4", "R56.7", "R89.0"]
       },
       {
         "testTypeDto": {
@@ -2071,11 +2051,7 @@
             "name": "Test 12"
           }
         ],
-        "diagnosticsCodes": [
-          "R12.3",
-          "R45.6",
-          "R78.9"
-        ]
+        "diagnosticsCodes": ["R12.3", "R45.6", "R78.9"]
       },
       {
         "testTypeDto": {
@@ -2098,11 +2074,7 @@
             "name": "Test 14"
           }
         ],
-        "diagnosticsCodes": [
-          "R56.7",
-          "R89.0",
-          "R01.2"
-        ]
+        "diagnosticsCodes": ["R56.7", "R89.0", "R01.2"]
       },
       {
         "testTypeDto": {
@@ -2125,11 +2097,7 @@
             "name": "Test 16"
           }
         ],
-        "diagnosticsCodes": [
-          "R34.5",
-          "R67.8",
-          "R90.1"
-        ]
+        "diagnosticsCodes": ["R34.5", "R67.8", "R90.1"]
       },
       {
         "testTypeDto": {
@@ -2152,11 +2120,7 @@
             "name": "Test 18"
           }
         ],
-        "diagnosticsCodes": [
-          "R23.4",
-          "R56.7",
-          "R78.9"
-        ]
+        "diagnosticsCodes": ["R23.4", "R56.7", "R78.9"]
       },
       {
         "testTypeDto": {
@@ -2179,11 +2143,7 @@
             "name": "Test 20"
           }
         ],
-        "diagnosticsCodes": [
-          "R12.3",
-          "R45.6",
-          "R78.9"
-        ]
+        "diagnosticsCodes": ["R12.3", "R45.6", "R78.9"]
       }
     ]
   },
@@ -2413,10 +2373,7 @@
       "timeTo": "18:00"
     },
     {
-      "listOfTenantIds": [
-        "Oliver Hansen",
-        "Van Henry"
-      ],
+      "listOfTenantIds": ["Oliver Hansen", "Van Henry"],
       "applyToAllPatientsFlag": "Yes",
       "broadCastType": "PostLogin",
       "dateFrom": "07-14-2023",
@@ -2428,9 +2385,7 @@
       "id": 11
     },
     {
-      "listOfTenantIds": [
-        "Van Henry"
-      ],
+      "listOfTenantIds": ["Van Henry"],
       "applyToAllPatientsFlag": "No",
       "broadCastType": "PostLogin",
       "dateFrom": "07-09-2023",
@@ -2442,9 +2397,7 @@
       "id": 12
     },
     {
-      "listOfTenantIds": [
-        "Van Henry"
-      ],
+      "listOfTenantIds": ["Van Henry"],
       "applyToAllPatientsFlag": "Yes",
       "broadCastType": "PostLogin",
       "dateFrom": "07-18-2023",
@@ -2456,10 +2409,7 @@
       "id": 14
     },
     {
-      "listOfTenantIds": [
-        "Oliver Hansen",
-        "Van Henry"
-      ],
+      "listOfTenantIds": ["Oliver Hansen", "Van Henry"],
       "applyToAllPatientsFlag": "Yes",
       "broadCastType": "PostLogin",
       "dateFrom": "07-19-2023",
@@ -2471,10 +2421,7 @@
       "id": 15
     },
     {
-      "listOfTenantIds": [
-        "Oliver Hansen",
-        "Van Henry"
-      ],
+      "listOfTenantIds": ["Oliver Hansen", "Van Henry"],
       "applyToAllPatientsFlag": "Yes",
       "broadCastType": "PostLogin",
       "dateFrom": "07-19-2023",
@@ -3102,9 +3049,7 @@
       }
     ]
   },
-  "orderConfigurationSubmitData": [
-    []
-  ],
+  "orderConfigurationSubmitData": [[]],
   "orderConfigurationpanelTest": [
     {
       "id": 1,
@@ -3203,33 +3148,9 @@
         "Diagnosticcode": "R742, R94.5 , R63.5"
       }
     ],
-    "selectedOption2": [
-      {
-        "id": 7,
-        "label": "COMP",
-        "panel": "UDRUG7",
-        "description": "Lorem Ipsum 1",
-        "Diagnosticcode": "R742, R94.5 , R63.5"
-      },
-      {
-        "id": 6,
-        "label": "UDRUG",
-        "panel": "UDRUG6",
-        "description": "Lorem Ipsum 1",
-        "Diagnosticcode": "R742, R94.5 , R63.5"
-      },
-      {
-        "id": 8,
-        "label": "CT_QCU",
-        "panel": "UDRUG8",
-        "description": "Lorem Ipsum 1",
-        "Diagnosticcode": "R742, R94.5 , R63.5"
-      }
-    ]
+    "selectedOption2": []
   },
-  "orderConfigurationSubmitdata": [
-    []
-  ],
+  "orderConfigurationSubmitdata": [[]],
   "orderConfigurationTemplateName": {
     "0": {
       "id": 6,
