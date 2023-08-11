@@ -3125,29 +3125,7 @@
     }
   ],
   "tableData": {
-    "selectedOption1": [
-      {
-        "id": 1,
-        "label": "UDRUG",
-        "panel": "UDRUG1",
-        "description": "Lorem Ipsum 1",
-        "Diagnosticcode": "R742, R94.5 , R63.5"
-      },
-      {
-        "id": 2,
-        "label": "COMP",
-        "panel": "UDRUG2",
-        "description": "Lorem Ipsum 1",
-        "Diagnosticcode": "R742, R94.5 , R63.5"
-      },
-      {
-        "id": 3,
-        "label": "CT_QCU",
-        "panel": "UDRUG3",
-        "description": "Lorem Ipsum 1",
-        "Diagnosticcode": "R742, R94.5 , R63.5"
-      }
-    ],
+    "selectedOption1": [],
     "selectedOption2": []
   },
   "orderConfigurationSubmitdata": [[]],
